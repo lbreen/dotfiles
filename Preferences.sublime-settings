@@ -1,4 +1,5 @@
 {
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"detect_indentation": false,
 	"draw_white_space": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -16,9 +17,7 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Emmet",
-		"JSX",
-		"SCSS",
+		"SublimeLinter-contrib-eslint",
 		"Vintage"
 	],
 	"remember_open_files": false,
